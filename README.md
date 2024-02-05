@@ -1,2 +1,2 @@
 # Portfolio
-## Link to my portfolio: https://www.mannbell.me
+## Link to my portfolio: https://mannbell.me
